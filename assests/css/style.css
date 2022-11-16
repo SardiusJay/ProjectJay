@@ -457,7 +457,7 @@ header .navbar ul li a:hover{
   color: #fff;
 }
 .skills .heading span {
-  color: rgb(255, 230, 0);
+  color: rgb(226, 135, 15);
 }
 .skills .container {
   background: rgba(0, 0, 22, 0.4);
@@ -641,7 +641,7 @@ header .navbar ul li a:hover{
   padding: 1rem;
 }
 .work .heading span{
-  color: rgb(255, 230, 0);
+  color: rgb(228, 150, 6);
 }
 .work .box-container{
   display: flex;
